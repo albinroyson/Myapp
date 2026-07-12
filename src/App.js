@@ -1,11 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
 import Loginpage from './logincomponet/Loginpage';
 
 function App() {
   return (
     <div className="App">
-     <Loginpage />
+<p>Welcome to my React App!</p>
+<Loginpage />
     </div>
   );
 }
