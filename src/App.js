@@ -3,8 +3,8 @@ import Loginpage from './logincomponet/Loginpage';
 
 function App() {
   return (
-    <div className="App">
-<p>Welcome to my React App!</p>
+    <div >
+
 <Loginpage />
     </div>
   );
